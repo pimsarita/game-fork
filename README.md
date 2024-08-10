@@ -37,9 +37,9 @@ For a better time, make sure to join the [Discord channel](https://discord.gg/nk
 
 > Please be aware of a [possible scam in regards to Delaford](https://github.com/delaford/game#possible-scam-notice) that promises money for testing or similar action.
 
-## Contributing
+## For contributors
 
-Please check out our [CONTRIBUTING.md](https://github.com/Delaford/game/blob/master/.github/CONTRIBUTING.md) guide on how you can actively participate in the development of this medieval game. It's pretty easy and fun!
+Please check out for our [CONTRIBUTING.md](https://github.com/Delaford/game/blob/master/.github/CONTRIBUTING.md) guide on how you can actively participate in the development of this medieval game. It's pretty easy and fun!
 
 ## Systems and Engines
 
